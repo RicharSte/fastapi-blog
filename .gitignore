@@ -133,3 +133,5 @@ dmypy.json
 .jpeg
 
 .DS_Store
+
+.db
